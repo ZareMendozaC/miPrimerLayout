@@ -1,0 +1,62 @@
+body{
+	padding: 15px 23% 0 23%;
+}
+.detalle{
+	border:1px solid;
+	padding-top: 15px;
+
+}
+.profile{
+	border-radius: 100%;
+}
+p{
+	font-size: 20px;
+	margin-left: 45px;
+	margin-right: 45px;
+}
+h1
+{
+	margin-left: 45px;
+	margin-right: 45px;
+}
+
+ul li
+{
+	font-size: 20px;
+	list-style: none;
+	border:1px solid;
+	width: 100px;
+	background-color: #848484;
+	color:white;
+	margin-left: 25px;
+	margin-bottom: 15px;
+	padding-bottom: 12px;
+	padding-left: 12px;
+	padding-top: 12px;
+
+}   
+.html{
+	
+	padding-right: 335px;
+}
+.css{
+	
+	padding-right: 235px;
+}
+.JavaScript{
+	
+	padding-right: 35px;
+}
+.images{
+	padding-left:50px;
+	padding-bottom: 20px;
+
+}
+.images img{
+	width: 200px;
+	height: 150px;
+	display: inline-block;
+		padding-right: 10px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+}
